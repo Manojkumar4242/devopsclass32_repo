@@ -1,2 +1,7 @@
+#!/bin/bash
 
-  Hello This Manoj
+echo "****** Display OS Versiom *******"
+cat /etc/*se
+
+echo "****** Display kernel Versiom *******"
+uname -r
