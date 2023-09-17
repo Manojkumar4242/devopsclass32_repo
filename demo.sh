@@ -7,3 +7,5 @@ echo "****** Display kernel Versiom *******"
 uname -r
 
 date
+
+cal
