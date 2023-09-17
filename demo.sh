@@ -5,3 +5,5 @@ cat /etc/*se
 
 echo "****** Display kernel Versiom *******"
 uname -r
+
+date
