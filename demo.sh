@@ -9,3 +9,5 @@ uname -r
 date
 
 cal
+
+ls -l
